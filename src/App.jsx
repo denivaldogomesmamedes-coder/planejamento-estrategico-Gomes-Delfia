@@ -1,7 +1,6 @@
 // src/App.jsx
 
-import BusinessPlanDashboard from './BusinessPlanDashboard';
-
+import BusinessPlanDashboard from './BusinessPlanDashboard.jsx';
 function App() {
   return (
     <div>
